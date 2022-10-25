@@ -61,6 +61,7 @@
     }
     
     .main {
+        border-top: 50px white solid;
         display: flex;
         flex-direction: column;
         justify-content: center;
